@@ -234,4 +234,5 @@ Cannot read properties of null (reading '***'):可能是数据库中存在字段
 	props:可以理解为在组件当中的自定义属性；
 		首先现在子组件中定义props------> const props = defineProps(["item"])
 		再在父组件中对item进行赋值；注意：props中的属性为只读单项数据，不可修改
+		1111111111111111111111111111111111
 
